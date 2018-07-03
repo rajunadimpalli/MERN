@@ -18,4 +18,4 @@ A simple application with Webpack, Babel, and Nodemon configuration to check dev
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 
 # mongoose connection
-C:\Program Files\MongoDB\Server\3.6\bin>mongod.exe --C:\data\db
+C:\Program Files\MongoDB\Server\3.6\bin>mongod  --dbpath C:\data\db
