@@ -17,3 +17,5 @@ A simple application with Webpack, Babel, and Nodemon configuration to check dev
    - To run the application for development, run ```  npm run development  ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 
+# mongoose connection
+C:\Program Files\MongoDB\Server\3.6\bin>mongod.exe --C:\data\db
